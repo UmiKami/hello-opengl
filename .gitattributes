@@ -1,1 +1,3 @@
 libs/* linguist-vendored
+*.c linguist-vendored
+*.C linguist-vendored
